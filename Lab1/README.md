@@ -9,6 +9,7 @@ This work was done in collaboration with:
 * [Set-Cover-problem](https://github.com/AndreaRubbi/Set-Cover-problem-solution-Python)
 
 ## Result
+[lab1.ipynb](https://github.com/jonathan2503/s301514_Computational_intelligence/blob/7b0d7e7c8a394881bb4ee3e3c6de8889c593bfff) 
 Optimized solution for N=5:    nodes  visited:125 \
 Optimized solution for N=10: nodes visited:250 \
 Optimized solution for N=20: nodes visited:204 \
