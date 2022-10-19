@@ -1,7 +1,7 @@
 # s301514_Computational_intelligence
 ## Wk 0      <sub> <sub> [ 9 Ott to 16 Ott] </sub> </sub>
 
-### [Lab1](https://github.com/jonathan2503/s301514_Computational_intelligence/tree/main/Lab1)
+### [Lab1](https://github.com/jonathan2503/s301514_Computational_intelligence/tree/main/lab1)
  ✅ understand the problem \
  ✅  find a basic solution with colleagues \
  ✅  solution obtained \
