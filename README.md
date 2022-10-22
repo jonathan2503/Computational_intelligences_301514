@@ -19,7 +19,7 @@
 ## Wk 1      <sub> <sub> [ 17 Ott to 23 Ott] </sub> </sub>
 
 ### [Lab1](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab1)
- ✅ Performed issues to [Raffaele Pane](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab1)
+ ✅ Performed issues to [Raffaele Pane](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab1) \
  ✅ Carefully analyzed the Issue of my lab1 performed by   [Marco Masera](https://github.com/Marco-Masera)
 ### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
   ✅ class Board \
@@ -28,3 +28,10 @@
   ✅ Board.draw_pawn \
   ✅ finished constructing the GUI :
   
+<p float="left">
+  <img src="00_foto/1_1.png" width="200" />
+</p>
+
+<!--_____________________________________SETTIMANA 2 __________________________________-->
+
+## Wk 2      <sub> <sub> [ 24 Ott to 30 Ott] </sub> </sub>
