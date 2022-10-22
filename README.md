@@ -26,3 +26,5 @@
   ✅ Board.board_set_up \
   ✅ Board.get_position \
   ✅ Board.draw_pawn \
+  ✅ finished constructing the GUI :
+  
