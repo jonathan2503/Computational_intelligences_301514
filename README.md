@@ -20,7 +20,9 @@
 
 ### [Lab1](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab1)
  ✅ Performed issues to [Raffaele Pane](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab1) \
- ✅ Carefully analyzed the Issue of my lab1 performed by   [Marco Masera](https://github.com/Marco-Masera)
+ ✅ Carefully analyzed the Issue of my lab1 performed by   [Marco Masera](https://github.com/Marco-Masera) \
+ ✅ Relased V1 whit correction suggested, better output. \
+ ✅ Closed the issue
 ### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
   ✅ class Board \
   ✅ Board.board_set_up \
