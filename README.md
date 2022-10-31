@@ -13,7 +13,7 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
   ✅ Button \
   ✅ TableButton \
   ✅ FSM \
-  ✅ Mangaed button and FSM
+  ✅ Mangaed button and FSM\
   ✅ new GUI :
   
 <p float="left">
