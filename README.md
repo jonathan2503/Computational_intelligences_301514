@@ -17,7 +17,7 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
   ✅ new GUI :
   
 <p float="left">
-  <img src="00_foto/1_2.png" width="200" />
+  <img src="00_foto/1_2_1.png" width="300" />
 </p>
 
 
