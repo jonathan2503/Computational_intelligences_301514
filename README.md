@@ -6,22 +6,20 @@ My computer skills are strongest first in the hardware description side and seco
 I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade.\
 Since I wish to do a PHD in the field of artificial inteligence implemented in hardware I think that this course will give me the useful tools to better understand this emerging technology.
 
+<!--_____________________________________SETTIMANA 2 __________________________________-->
 
-
-<!--_____________________________________SETTIMANA 0 __________________________________-->
-## Wk 0      <sub> <sub> [ 9 Ott to 16 Ott] </sub> </sub>
-
-### [Lab1](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab1)
- ✅ understand the problem \
- ✅  find a basic solution with colleagues \
- ✅  solution obtained \
- ✅  documentation and publication of the result \
-❌ tried implement  VHDL solution  ( The data form of VHDL is not compatible whit the problem)\
-❌ tried implement C++ solution   ( The data form of C++ is not compatible whit the problem)
-
+## Wk 2      <sub> <sub> [ 24 Ott to 30 Ott] </sub> </sub>
 ### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
-  ✅ understand the game \
-  ✅ define the GUI \
+  ✅ Button \
+  ✅ TableButton \
+  ✅ FSM \
+  ✅ Mangaed button and FSM
+  ✅ new GUI :
+  
+<p float="left">
+  <img src="00_foto/1_2.png" width="200" />
+</p>
+
 
 <!--_____________________________________SETTIMANA 1 __________________________________-->
 
@@ -43,6 +41,24 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
   <img src="00_foto/1_1.png" width="200" />
 </p>
 
-<!--_____________________________________SETTIMANA 2 __________________________________-->
 
-## Wk 2      <sub> <sub> [ 24 Ott to 30 Ott] </sub> </sub>
+
+
+
+<!--_____________________________________SETTIMANA 0 __________________________________-->
+## Wk 0      <sub> <sub> [ 9 Ott to 16 Ott] </sub> </sub>
+
+### [Lab1](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab1)
+ ✅ understand the problem \
+ ✅  find a basic solution with colleagues \
+ ✅  solution obtained \
+ ✅  documentation and publication of the result \
+❌ tried implement  VHDL solution  ( The data form of VHDL is not compatible whit the problem)\
+❌ tried implement C++ solution   ( The data form of C++ is not compatible whit the problem)
+
+### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
+  ✅ understand the game \
+  ✅ define the GUI \
+
+
+
