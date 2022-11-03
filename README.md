@@ -6,6 +6,26 @@ My computer skills are strongest first in the hardware description side and seco
 I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade.\
 Since I wish to do a PHD in the field of artificial inteligence implemented in hardware I think that this course will give me the useful tools to better understand this emerging technology.
 
+
+<!--_____________________________________SETTIMANA 3 __________________________________-->
+## Wk 3     <sub> <sub> [ 31 Ott to 6 Nov] </sub> </sub>
+### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
+  ✅ clik-event real time  \
+  ✅ GUI complete \
+  
+  <p float="left">
+  <img src="00_foto/off.gif" width="500" />
+</p>
+
+### [Lab2](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab2)
+ ✅ understand the problem  \
+ ✅ study a solution  \
+
+
+
+
+
+
 <!--_____________________________________SETTIMANA 2 __________________________________-->
 
 ## Wk 2      <sub> <sub> [ 24 Ott to 30 Ott] </sub> </sub>
