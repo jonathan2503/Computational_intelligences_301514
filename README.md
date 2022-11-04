@@ -12,14 +12,14 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
 ### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
   ✅ clik-event real time  \
   ✅ GUI complete \
-  ❌ STOP working on the  GUI because a server in C++  will be provided to us and  which we will interface with
+  ❌ STOP working on the  GUI because a server in C++  will be provided to us and  which we will interface with    
   <p float="left">
   <img src="00_foto/off.gif" width="500" />
 </p>
 
 ### [Lab2](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab2)
- ✅ understand the problem  \
- ✅ study a solution  
+ ❌ Try my implementation based on prof's algoritm \
+ ✅ studing the solution of collegues 
 
 
 
