@@ -14,13 +14,14 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
   ✅ GUI complete \
   ❌ STOP working on the  GUI because a server in C++  will be provided to us and  which we will interface with    
   <p float="left">
-  <img src="00_foto/off.gif" width="500" />
+  <img src="00_foto/off.gif" width="400" />
 </p>
 
 ### [Lab2](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab2)
  ❌ Try my implementation based on prof's algoritm \
- ✅ studing the solution of collegues 
-
+ ✅ studied the implementation of colleagues \
+ ✅ Implemented a simpler form of the colleagues' solution
+ 
 
 
 
