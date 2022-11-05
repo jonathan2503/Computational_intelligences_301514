@@ -6,10 +6,22 @@ My computer skills are strongest first in the hardware description side and seco
 I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade.\
 Since I wish to do a PHD in the field of artificial inteligence implemented in hardware I think that this course will give me the useful tools to better understand this emerging technology.
 
+<!--_____________________________________SETTIMANA 4 __________________________________-->
+## Wk 4     <sub> <sub> [ 31 Ott to 6 Nov] </sub> </sub>
+
+
+
 
 <!--_____________________________________SETTIMANA 3 __________________________________-->
 ## Wk 3     <sub> <sub> [ 31 Ott to 6 Nov] </sub> </sub>
-### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
+
+### [Lab2](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab2)
+ ❌ Try my implementation based on prof's algoritm \
+ ✅ studied the implementation of colleagues \
+ ✅ Implemented a simpler form of the colleagues' solution
+ 
+
+### [Quarto]([GUI/main.py](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/GUI))
   ✅ clik-event real time  \
   ✅ GUI complete \
   ❌ STOP working on the  GUI because a server in C++  will be provided to us and  which we will interface with    
@@ -17,11 +29,7 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
   <img src="00_foto/off.gif" width="400" />
 </p>
 
-### [Lab2](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/lab2)
- ❌ Try my implementation based on prof's algoritm \
- ✅ studied the implementation of colleagues \
- ✅ Implemented a simpler form of the colleagues' solution
- 
+
 
 
 
@@ -30,7 +38,7 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
 <!--_____________________________________SETTIMANA 2 __________________________________-->
 
 ## Wk 2      <sub> <sub> [ 24 Ott to 30 Ott] </sub> </sub>
-### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
+### [Quarto](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/GUI)
   ✅ Button \
   ✅ TableButton \
   ✅ FSM \
@@ -77,7 +85,7 @@ Since I wish to do a PHD in the field of artificial inteligence implemented in h
 ❌ tried implement  VHDL solution  ( The data form of VHDL is not compatible whit the problem)\
 ❌ tried implement C++ solution   ( The data form of C++ is not compatible whit the problem)
 
-### [Quarto](https://github.com/jonathan2503/Quarto/tree/Quarto)
+### [Quarto](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/GUI)
   ✅ understand the game \
   ✅ define the GUI \
 
