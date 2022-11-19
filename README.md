@@ -9,8 +9,8 @@ Since I wish to do a PHD in the field of Neuroengineering I think that this cour
 <!--_____________________________________SETTIMANA 4 __________________________________-->
 ## Wk 4     <sub> <sub> [ 14 Nov to 20 Nov] </sub> </sub>
 
-✅ Theory
-✅ Decided to develop anyway whith py game as optional 
+✅ Theory \
+✅ Decided to develop anyway whith py game as optional while waiting the game instruction
 
 
 <!--_____________________________________SETTIMANA 3 __________________________________-->
