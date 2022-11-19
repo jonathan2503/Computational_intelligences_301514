@@ -4,7 +4,7 @@ I declare ,for exam evaluation purposes, that this is the first time I have used
 My computer skills are strongest first in the hardware description side and second with low-level iteration, indeed I belong to the embedded systems track.
 ### The choice of this course 
 I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade.\
-Since I wish to do a PHD in the field of artificial inteligence implemented in hardware I think that this course will give me the useful tools to better understand this emerging technology.
+Since I wish to do a PHD in the field of Neuroengineering I think that this course will give me the useful tools to better understand this emerging technology.
 
 <!--_____________________________________SETTIMANA 4 __________________________________-->
 ## Wk 4     <sub> <sub> [ 14 Nov to 20 Nov] </sub> </sub>
