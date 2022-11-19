@@ -11,7 +11,8 @@ Since I wish to do a PHD in the field of Neuroengineering I think that this cour
 
 ✅ Theory \
 ✅ Decided to develop anyway whith py game as optional while waiting the game instruction\
-✅ Performed peer issues for LAB2 to [Raffaele Pane](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab2) 
+✅ Performed peer issues for LAB2 to [Raffaele Pane](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab2) \
+✅ Learn what  [Raffaele Pane](https://github.com/bred91/Computational_Intelligence_2022-2023/blob/main/lab2/Lab_2_upgraded.ipynb) did for improve efficency on Lab 2
 
 <!--_____________________________________SETTIMANA 3 __________________________________-->
 ## Wk 3     <sub> <sub> [ 31 Ott to 6 Nov] </sub> </sub>
