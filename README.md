@@ -7,9 +7,10 @@ I also declare that the reason for choosing this course is because the science o
 Since I wish to do a PHD in the field of artificial inteligence implemented in hardware I think that this course will give me the useful tools to better understand this emerging technology.
 
 <!--_____________________________________SETTIMANA 4 __________________________________-->
-## Wk 4     <sub> <sub> [ 7 Nov to 13 Nov] </sub> </sub>
+## Wk 4     <sub> <sub> [ 14 Nov to 20 Nov] </sub> </sub>
 
-
+✅ Theory
+✅ Decided to develop anyway whith py game as optional 
 
 
 <!--_____________________________________SETTIMANA 3 __________________________________-->
