@@ -19,7 +19,7 @@ Since I wish to do a PHD in the field of Neuroengineering I think that this cour
 ✅ implemented win logic\
 ✅ AI class\
 ✅ AI class\
-✅ Ghost class
+✅ Ghost class\
 ❌ some little Bug to be fixed 
 <!--_____________________________________SETTIMANA 4 __________________________________-->
 ## Wk 4     <sub> <sub> [ 14 Nov to 20 Nov] </sub> </sub>
