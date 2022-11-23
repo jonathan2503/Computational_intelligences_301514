@@ -6,6 +6,18 @@ My computer skills are strongest first in the hardware description side and seco
 I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade.\
 Since I wish to do a PHD in the field of Neuroengineering I think that this course will give me the useful tools to better understand this emerging technology.
 
+
+
+<!--_____________________________________SETTIMANA 5 __________________________________-->
+## Wk 4     <sub> <sub> [ 21 Nov to 27 Nov] </sub> </sub>
+
+
+✅ Completed the Random game of quarto: [QUARTO!]([GUI/main.py](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/Quarto_Random))\
+✅ implemented win logic\
+✅ AI class\
+✅ AI class\
+✅ Ghost class
+
 <!--_____________________________________SETTIMANA 4 __________________________________-->
 ## Wk 4     <sub> <sub> [ 14 Nov to 20 Nov] </sub> </sub>
 
