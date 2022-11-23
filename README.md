@@ -9,7 +9,7 @@ Since I wish to do a PHD in the field of Neuroengineering I think that this cour
 
 
 <!--_____________________________________SETTIMANA 5 __________________________________-->
-## Wk 4     <sub> <sub> [ 21 Nov to 27 Nov] </sub> </sub>
+## Wk 5     <sub> <sub> [ 21 Nov to 27 Nov] </sub> </sub>
   <p float="left">
   <img src="00_foto/iowin.gif" width="300" />
   <img src="00_foto/aiwin.gif" width="300" />
