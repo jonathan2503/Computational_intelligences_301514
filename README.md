@@ -41,7 +41,7 @@ Since I wish to do a PHD in the field of Neuroengineering I think that this cour
 ### [Quarto]([GUI/main.py](https://github.com/jonathan2503/Computational_intelligences_301514/tree/main/GUI))
   ✅ clik-event real time  \
   ✅ GUI complete \
-  ❌ STOP working on the  GUI because a server in C++  will be provided to us and  which we will interface with    
+  <!--❌ STOP working on the  GUI because a server in C++  will be provided to us and  which we will interface with    -->
   <p float="left">
   <img src="00_foto/off.gif" width="400" />
 </p>
