@@ -6,6 +6,11 @@ My computer skills are strongest first in the hardware description side and seco
 I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade.\
 Since I wish to do a PHD in the field of Neuroengineering I think that this course will give me the useful tools to better understand this emerging technology.
 
+## collaboration:
+Salvatore Licata (s295798)
+Maria Rosa Scoleri (s301841)
+    
+
 
 
 <!--_____________________________________SETTIMANA 5 __________________________________-->
