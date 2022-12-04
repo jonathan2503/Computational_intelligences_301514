@@ -30,7 +30,9 @@ Maria Rosa Scoleri (s301841)
 ✅ AI class\
 ✅ AI class\
 ✅ Ghost class\
-❌ some little Bug to be fixed 
+✅ Requested on the group for someone to evaluate my lab 2\
+❌ some little Bug to be fixed   \
+❌ no peer reviews received 
 <!--_____________________________________SETTIMANA 4 __________________________________-->
 ## Wk 4     <sub> <sub> [ 14 Nov to 20 Nov] </sub> </sub>
 
