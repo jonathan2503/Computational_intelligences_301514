@@ -12,7 +12,7 @@ Maria Rosa Scoleri (s301841)
     
 
 <!--_____________________________________SETTIMANA 6 __________________________________-->
-## Wk 5     <sub> <sub> [ 28 Nov to 2 Nov] </sub> </sub>
+## Wk 6     <sub> <sub> [ 28 Nov to 4 Dic] </sub> </sub>
 ✅ understand the Lab 3 problem
 ✅ studied colleagues solution of LAB3.1
 ✅ studied colleagues solution of LAB3.2
