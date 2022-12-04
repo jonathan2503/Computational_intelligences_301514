@@ -11,7 +11,12 @@ Salvatore Licata (s295798)
 Maria Rosa Scoleri (s301841)
     
 
-
+<!--_____________________________________SETTIMANA 6 __________________________________-->
+## Wk 5     <sub> <sub> [ 28 Nov to 2 Nov] </sub> </sub>
+✅ understand the Lab 3 problem
+✅ studied colleagues solution of LAB3.1
+✅ studied colleagues solution of LAB3.2
+✅ Implemented Lab3.1 
 
 <!--_____________________________________SETTIMANA 5 __________________________________-->
 ## Wk 5     <sub> <sub> [ 21 Nov to 27 Nov] </sub> </sub>
