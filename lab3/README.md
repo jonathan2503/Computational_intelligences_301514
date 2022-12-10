@@ -4,4 +4,4 @@ In this solution i've chosen to implement a costant strategy of taken the maximu
 ## Lab3.2:GA
 In this solution is GA vs Random choice, reference taken by group that i belong
 ## Lab3.3
-## Lab3.4
+In this solution is MinMax vs Random choice, reference taken by group that i belong
