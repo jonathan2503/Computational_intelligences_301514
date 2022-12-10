@@ -14,7 +14,7 @@ Maria Rosa Scoleri (s301841)
 <!--_____________________________________SETTIMANA 7 __________________________________-->
 ## Wk 6     <sub> <sub> [ 5 Nov to 10 Dic] </sub> </sub>
 ✅ understand the Lab 3 problem\
-✅ studied minmax 
+✅ studied minmax \
 ✅ studied colleagues solution of LAB3.3\
 ✅ studied colleagues solution of LAB3.4\
 ✅ Implemented Lab3.3\
