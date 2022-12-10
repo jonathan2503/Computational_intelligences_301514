@@ -10,14 +10,21 @@ Since I wish to do a PHD in the field of Neuroengineering I think that this cour
 Salvatore Licata (s295798)
 Maria Rosa Scoleri (s301841)
     
-
+<!--_____________________________________SETTIMANA 7 __________________________________-->
+## Wk 6     <sub> <sub> [ 5 Nov to 10 Dic] </sub> </sub>
+✅ understand the Lab 3 problem\
+✅ studied minmax 
+✅ studied colleagues solution of LAB3.3\
+✅ studied colleagues solution of LAB3.4\
+✅ Implemented Lab3.3\
+❌ found a solution for  MinMax strategy in QUARTO!
 <!--_____________________________________SETTIMANA 6 __________________________________-->
 ## Wk 6     <sub> <sub> [ 28 Nov to 4 Dic] </sub> </sub>
 ✅ understand the Lab 3 problem\
 ✅ studied colleagues solution of LAB3.1\
 ✅ studied colleagues solution of LAB3.2\
-✅ Implemented Lab3.1 
-
+✅ Implemented Lab3.1 \
+✅ Implemented Lab3.2 
 <!--_____________________________________SETTIMANA 5 __________________________________-->
 ## Wk 5     <sub> <sub> [ 21 Nov to 27 Nov] </sub> </sub>
   <p float="left">
