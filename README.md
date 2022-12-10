@@ -3,8 +3,9 @@
 I declare ,for exam evaluation purposes, that this is the first time I have used python or such high-level languages in general.
 My computer skills are strongest first in the hardware description side and second with low-level iteration, indeed I belong to the embedded systems track.
 ### The choice of this course 
-I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade.\
-Since I wish to do a PHD in the field of Neuroengineering I think that this course will give me the useful tools to better understand this emerging technology.
+I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade,.\
+Hardware architectures are increasingly orienting to support AI algorithms so a knowledge of how these algorithms work surely are  important thing if I want to become a hardware expert.
+
 
 ## collaboration:
 Salvatore Licata (s295798)
