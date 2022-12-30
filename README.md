@@ -5,6 +5,9 @@ My computer skills are strongest first in the hardware description side and seco
 ### The choice of this course 
 I also declare that the reason for choosing this course is because the science of computational intelligence will be the new milestone of technologies in a decade,.\
 Hardware architectures are increasingly orienting to support AI algorithms so a knowledge of how these algorithms work surely are  important thing if I want to become a hardware expert.
+### Experience 
+Im a work student and i have also DSA,so for me learing python and also CI method it wasent a nerf game. I learn a lot from the peer review and
+from my collegue that are more competent then me in this field, but after the initial difficulties i was able to perform a min max for quarto.
 
 
 ## collaboration:
@@ -13,16 +16,16 @@ Maria Rosa Scoleri (s301841)
 
 
 <!--_____________________________________SETTIMANA 10 __________________________________-->
-## Wk 7     <sub> <sub> [ 26 Dic to 31 Dic] </sub> </sub>
-✅ start to see quarto problem
-✅ Build a first trial of quarto min max and min max alfa beta
-
+## Wk 10     <sub> <sub> [ 26 Dic to 31 Dic] </sub> </sub>
+✅ start to see quarto problem\
+✅ Build a first trial of quarto min max and min max alfa beta\
+✅ Performed peer issues for LAB3 to [Raffaele Pane](https://github.com/bred91/Computational_Intelligence_2022-2023/tree/main/lab3) 
 <!--_____________________________________SETTIMANA 9 __________________________________-->
-## Wk 7     <sub> <sub> [ 19 Dic to 25 Dic] </sub> </sub>
+## Wk 9     <sub> <sub> [ 19 Dic to 25 Dic] </sub> </sub>
 ❌ vacation and illness  
 
 <!--_____________________________________SETTIMANA 8 __________________________________-->
-## Wk 7     <sub> <sub> [ 12 Dic to 18 Dic] </sub> </sub>
+## Wk 8    <sub> <sub> [ 12 Dic to 18 Dic] </sub> </sub>
 
 ✅ Requested on the group for someone to evaluate my lab 2\
 ✅ Requested on the group for someone to evaluate my lab 3\
