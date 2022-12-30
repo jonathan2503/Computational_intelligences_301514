@@ -33,6 +33,7 @@ Maria Rosa Scoleri (s301841)
 ✅ asked for a peer review on group 
 ❌ no peer reviews received for lab 3
 ❌ no peer reviews received for lab 2
+❌  illness problem
 
 <!--_____________________________________SETTIMANA 7 __________________________________-->
 ## Wk 7     <sub> <sub> [ 5 Dic to 11 Dic] </sub> </sub>
