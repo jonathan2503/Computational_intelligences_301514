@@ -30,9 +30,9 @@ Maria Rosa Scoleri (s301841)
 ✅ Requested on the group for someone to evaluate my lab 2\
 ✅ Requested on the group for someone to evaluate my lab 3\
 ✅ Requested on the person who was in charge to evaluate lab 2 and 3\
-✅ asked for a peer review on group 
-❌ no peer reviews received for lab 3
-❌ no peer reviews received for lab 2
+✅ asked for a peer review on group \
+❌ no peer reviews received for lab 3\
+❌ no peer reviews received for lab 2\
 ❌  illness problem
 
 <!--_____________________________________SETTIMANA 7 __________________________________-->
