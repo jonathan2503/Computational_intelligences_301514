@@ -10,9 +10,29 @@ Hardware architectures are increasingly orienting to support AI algorithms so a 
 ## collaboration:
 Salvatore Licata (s295798)
 Maria Rosa Scoleri (s301841)
-    
+
+
+<!--_____________________________________SETTIMANA 10 __________________________________-->
+## Wk 7     <sub> <sub> [ 26 Dic to 31 Dic] </sub> </sub>
+✅ start to see quarto problem
+✅ Build a first trial of quarto min max and min max alfa beta
+
+<!--_____________________________________SETTIMANA 9 __________________________________-->
+## Wk 7     <sub> <sub> [ 19 Dic to 25 Dic] </sub> </sub>
+❌ vacation and illness  
+
+<!--_____________________________________SETTIMANA 8 __________________________________-->
+## Wk 7     <sub> <sub> [ 12 Dic to 18 Dic] </sub> </sub>
+
+✅ Requested on the group for someone to evaluate my lab 2\
+✅ Requested on the group for someone to evaluate my lab 3\
+✅ Requested on the person who was in charge to evaluate lab 2 and 3\
+✅ asked for a peer review on group 
+❌ no peer reviews received for lab 3
+❌ no peer reviews received for lab 2
+
 <!--_____________________________________SETTIMANA 7 __________________________________-->
-## Wk 7     <sub> <sub> [ 5 Dic to 10 Dic] </sub> </sub>
+## Wk 7     <sub> <sub> [ 5 Dic to 11 Dic] </sub> </sub>
 ✅ understand the Lab 3 problem\
 ✅ studied minmax \
 ✅ studied colleagues solution of LAB3.3\
