@@ -15,6 +15,28 @@ Salvatore Licata (s295798)
 Maria Rosa Scoleri (s301841)
 
 
+
+
+<!--_____________________________________SETTIMANA 14 __________________________________-->
+## Wk 14     <sub> <sub> [ 22 Jan to 31 Jan] </sub> </sub>
+✅ full time work at MBDA\
+✅  check again report and send 
+<!--_____________________________________SETTIMANA 13 __________________________________-->
+## Wk 13     <sub> <sub> [ 15 Jan to 21 Jan] </sub> </sub>
+✅ full time work at MBDA
+
+<!--_____________________________________SETTIMANA 12 __________________________________-->
+## Wk 12     <sub> <sub> [ 8 Jan to 14 Jan] </sub> </sub>
+✅ full time work at MBDA\
+✅ Finisched Report
+
+<!--_____________________________________SETTIMANA 11 __________________________________-->
+## Wk 11     <sub> <sub> [ 1 Jan to 7 Jan] </sub> </sub>
+✅ Minmax and quarto game \
+✅ finisched quarto \
+✅ Report
+
+
 <!--_____________________________________SETTIMANA 10 __________________________________-->
 ## Wk 10     <sub> <sub> [ 26 Dic to 31 Dic] </sub> </sub>
 ✅ start to see quarto problem\
